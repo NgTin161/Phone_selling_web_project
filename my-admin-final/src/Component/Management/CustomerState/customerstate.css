@@ -1,0 +1,25 @@
+.customer-stats {
+    width: 500px;
+    height: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+}
+
+.stats-item {
+    margin-bottom: 10px;
+}
+
+.customer-list {
+    margin-top: 20px;
+}
+
+.customer-list ul {
+    list-style: none;
+    padding: 0;
+}
+
+.customer-list li {
+    margin-bottom: 5px;
+}

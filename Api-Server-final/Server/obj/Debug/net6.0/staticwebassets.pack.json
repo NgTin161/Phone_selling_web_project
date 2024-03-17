@@ -1,0 +1,381 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Plus\\Black\\iphone-15-plus-den-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Plus\\Black\\iphone-15-plus-den-2.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Plus\\Black\\iphone-15-plus-den-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Plus\\Black\\iphone-15-plus-den-3.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Plus\\Light blue\\iphone-15-plus-xanh-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Plus\\Light blue\\iphone-15-plus-xanh-2.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Plus\\Light blue\\iphone-15-plus-xanh-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Plus\\Light blue\\iphone-15-plus-xanh-3.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Plus\\Light green\\iphone-15-plus-xanh-la-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Plus\\Light green\\iphone-15-plus-xanh-la-2.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Plus\\Light green\\iphone-15-plus-xanh-la-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Plus\\Light green\\iphone-15-plus-xanh-la-3.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Plus\\Light yellow\\iphone-15-plus-vang-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Plus\\Light yellow\\iphone-15-plus-vang-2.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Plus\\Light yellow\\iphone-15-plus-vang-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Plus\\Light yellow\\iphone-15-plus-vang-3.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Plus\\Pale pink\\iphone-15-plus-hong-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Plus\\Pale pink\\iphone-15-plus-hong-2.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Plus\\Pale pink\\iphone-15-plus-hong-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Plus\\Pale pink\\iphone-15-plus-hong-3.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Plus\\iphone-15-plus-12-1020x570.png",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Plus\\iphone-15-plus-12-1020x570.png"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Plus\\iphone-15-slider-3--2--1020x570.png",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Plus\\iphone-15-slider-3--2--1020x570.png"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Plus\\vi-vn-iphone-15-plus-slider--(2).jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Plus\\vi-vn-iphone-15-plus-slider--(2).jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Plus\\vi-vn-iphone-15-plus-slider--(3).jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Plus\\vi-vn-iphone-15-plus-slider--(3).jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Plus\\vi-vn-iphone-15-plus-slider--(4).jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Plus\\vi-vn-iphone-15-plus-slider--(4).jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Plus\\vi-vn-iphone-15-plus-slider--(6).jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Plus\\vi-vn-iphone-15-plus-slider--(6).jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Plus\\vi-vn-iphone-15-plus-slider--(7).jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Plus\\vi-vn-iphone-15-plus-slider--(7).jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Plus\\vi-vn-iphone-15-plus-slider--(8).jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Plus\\vi-vn-iphone-15-plus-slider--(8).jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Plus\\vi-vn-iphone-15-plus-slider--(9).jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Plus\\vi-vn-iphone-15-plus-slider--(9).jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\Black titanium\\iphone-15-pro-max-black-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\Black titanium\\iphone-15-pro-max-black-1.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\Black titanium\\iphone-15-pro-max-black-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\Black titanium\\iphone-15-pro-max-black-2.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\Black titanium\\iphone-15-pro-max-black-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\Black titanium\\iphone-15-pro-max-black-3.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\Black titanium\\iphone-15-pro-max-den-tem-99.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\Black titanium\\iphone-15-pro-max-den-tem-99.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\Blue titanium\\iphone-15-pro-max-blue-1-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\Blue titanium\\iphone-15-pro-max-blue-1-1.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\Blue titanium\\iphone-15-pro-max-blue-2-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\Blue titanium\\iphone-15-pro-max-blue-2-1.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\Blue titanium\\iphone-15-pro-max-blue-3-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\Blue titanium\\iphone-15-pro-max-blue-3-1.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\Blue titanium\\iphone-15-pro-max-blue-4-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\Blue titanium\\iphone-15-pro-max-blue-4-1.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\Blue titanium\\iphone-15-pro-max-blue-tem-99.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\Blue titanium\\iphone-15-pro-max-blue-tem-99.jpeg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\Natural titanium\\iphone-15-pro-max-tu-nhien-1-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\Natural titanium\\iphone-15-pro-max-tu-nhien-1-1.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\Natural titanium\\iphone-15-pro-max-tu-nhien-2-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\Natural titanium\\iphone-15-pro-max-tu-nhien-2-1.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\Natural titanium\\iphone-15-pro-max-tu-nhien-3-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\Natural titanium\\iphone-15-pro-max-tu-nhien-3-1.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\Natural titanium\\iphone-15-pro-max-tu-nhien-4-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\Natural titanium\\iphone-15-pro-max-tu-nhien-4-1.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\Natural titanium\\iphone-15-pro-max-tu-nhien-tem-99.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\Natural titanium\\iphone-15-pro-max-tu-nhien-tem-99.jpeg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\White titanium\\iphone-15-pro-max-trang-tem-99.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\White titanium\\iphone-15-pro-max-trang-tem-99.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\White titanium\\iphone-15-pro-max-white-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\White titanium\\iphone-15-pro-max-white-1.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\White titanium\\iphone-15-pro-max-white-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\White titanium\\iphone-15-pro-max-white-2.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\White titanium\\iphone-15-pro-max-white-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\White titanium\\iphone-15-pro-max-white-3.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\White titanium\\iphone-15-pro-max-white-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\White titanium\\iphone-15-pro-max-white-4.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\vi-vn-iphone-15-pro-max-4-1020x570.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\vi-vn-iphone-15-pro-max-4-1020x570.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\vi-vn-iphone-15-pro-max-512gb-slider--(10).jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\vi-vn-iphone-15-pro-max-512gb-slider--(10).jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\vi-vn-iphone-15-pro-max-512gb-slider--(2).jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\vi-vn-iphone-15-pro-max-512gb-slider--(2).jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\vi-vn-iphone-15-pro-max-512gb-slider--(3).jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\vi-vn-iphone-15-pro-max-512gb-slider--(3).jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\vi-vn-iphone-15-pro-max-512gb-slider--(4).jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\vi-vn-iphone-15-pro-max-512gb-slider--(4).jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\vi-vn-iphone-15-pro-max-512gb-slider--(5).jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\vi-vn-iphone-15-pro-max-512gb-slider--(5).jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\vi-vn-iphone-15-pro-max-512gb-slider--(6).jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\vi-vn-iphone-15-pro-max-512gb-slider--(6).jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\vi-vn-iphone-15-pro-max-512gb-slider--(7).jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\vi-vn-iphone-15-pro-max-512gb-slider--(7).jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\vi-vn-iphone-15-pro-max-512gb-slider--(8).jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\vi-vn-iphone-15-pro-max-512gb-slider--(8).jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro Max\\vi-vn-iphone-15-pro-max-512gb-slider--(9).jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro Max\\vi-vn-iphone-15-pro-max-512gb-slider--(9).jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\Black titanium\\iphone-15-pro-black-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\Black titanium\\iphone-15-pro-black-1.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\Black titanium\\iphone-15-pro-black-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\Black titanium\\iphone-15-pro-black-2.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\Black titanium\\iphone-15-pro-black-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\Black titanium\\iphone-15-pro-black-3.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\Black titanium\\iphone-15-pro-black-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\Black titanium\\iphone-15-pro-black-4.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\Black titanium\\iphone-15-pro-tem-20-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\Black titanium\\iphone-15-pro-tem-20-3.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\Blue titanium\\iphone-15-pro-blue-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\Blue titanium\\iphone-15-pro-blue-1.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\Blue titanium\\iphone-15-pro-blue-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\Blue titanium\\iphone-15-pro-blue-2.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\Blue titanium\\iphone-15-pro-blue-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\Blue titanium\\iphone-15-pro-blue-3.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\Blue titanium\\iphone-15-pro-blue-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\Blue titanium\\iphone-15-pro-blue-4.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\Blue titanium\\iphone-15-pro-tem-20-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\Blue titanium\\iphone-15-pro-tem-20-1.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\Natural titanium\\iphone-15-pro-tem-20.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\Natural titanium\\iphone-15-pro-tem-20.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\Natural titanium\\iphone-15-pro-titan-tu-nhien-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\Natural titanium\\iphone-15-pro-titan-tu-nhien-1.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\Natural titanium\\iphone-15-pro-titan-tu-nhien-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\Natural titanium\\iphone-15-pro-titan-tu-nhien-2.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\Natural titanium\\iphone-15-pro-titan-tu-nhien-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\Natural titanium\\iphone-15-pro-titan-tu-nhien-3.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\Natural titanium\\iphone-15-pro-titan-tu-nhien-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\Natural titanium\\iphone-15-pro-titan-tu-nhien-4.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\White titanium\\iphone-15-pro-tem-20-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\White titanium\\iphone-15-pro-tem-20-2.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\White titanium\\iphone-15-pro-white-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\White titanium\\iphone-15-pro-white-1.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\White titanium\\iphone-15-pro-white-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\White titanium\\iphone-15-pro-white-2.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\White titanium\\iphone-15-pro-white-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\White titanium\\iphone-15-pro-white-3.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\White titanium\\iphone-15-pro-white-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\White titanium\\iphone-15-pro-white-4.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\iphone-15-pro-thumbyt-1020x570.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\iphone-15-pro-thumbyt-1020x570.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\vi-vn-iphone-15-pro-max-4-1020x570.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\vi-vn-iphone-15-pro-max-4-1020x570.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\vi-vn-iphone-15-pro-max-512gb-slider--(10).jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\vi-vn-iphone-15-pro-max-512gb-slider--(10).jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\vi-vn-iphone-15-pro-max-512gb-slider--(2).jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\vi-vn-iphone-15-pro-max-512gb-slider--(2).jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\vi-vn-iphone-15-pro-max-512gb-slider--(3).jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\vi-vn-iphone-15-pro-max-512gb-slider--(3).jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\vi-vn-iphone-15-pro-max-512gb-slider--(4).jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\vi-vn-iphone-15-pro-max-512gb-slider--(4).jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\vi-vn-iphone-15-pro-max-512gb-slider--(5).jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\vi-vn-iphone-15-pro-max-512gb-slider--(5).jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\vi-vn-iphone-15-pro-max-512gb-slider--(6).jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\vi-vn-iphone-15-pro-max-512gb-slider--(6).jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\vi-vn-iphone-15-pro-max-512gb-slider--(7).jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\vi-vn-iphone-15-pro-max-512gb-slider--(7).jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\vi-vn-iphone-15-pro-max-512gb-slider--(8).jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\vi-vn-iphone-15-pro-max-512gb-slider--(8).jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Images\\Product\\iPhone 15 Pro\\vi-vn-iphone-15-pro-max-512gb-slider--(9).jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\iPhone 15 Pro\\vi-vn-iphone-15-pro-max-512gb-slider--(9).jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Thumbnail\\iPhone11.jpg",
+      "PackagePath": "staticwebassets\\Thumbnail\\iPhone11.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Thumbnail\\iPhone12.jpg",
+      "PackagePath": "staticwebassets\\Thumbnail\\iPhone12.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Thumbnail\\iPhone13.jpg",
+      "PackagePath": "staticwebassets\\Thumbnail\\iPhone13.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Thumbnail\\iPhone14.jpg",
+      "PackagePath": "staticwebassets\\Thumbnail\\iPhone14.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Thumbnail\\iPhone14Plus.jpg",
+      "PackagePath": "staticwebassets\\Thumbnail\\iPhone14Plus.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Thumbnail\\iPhone14Pro.jpg",
+      "PackagePath": "staticwebassets\\Thumbnail\\iPhone14Pro.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Thumbnail\\iPhone14ProMax.jpg",
+      "PackagePath": "staticwebassets\\Thumbnail\\iPhone14ProMax.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Thumbnail\\iPhone15.jpg",
+      "PackagePath": "staticwebassets\\Thumbnail\\iPhone15.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Thumbnail\\iPhone15Plus.jpg",
+      "PackagePath": "staticwebassets\\Thumbnail\\iPhone15Plus.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Thumbnail\\iPhone15Pro.jpg",
+      "PackagePath": "staticwebassets\\Thumbnail\\iPhone15Pro.jpg"
+    },
+    {
+      "Id": "D:\\DOANHK6\\DoAnHK6\\Api-Server-final\\Server\\wwwroot\\Thumbnail\\iPhone15ProMax.jpg",
+      "PackagePath": "staticwebassets\\Thumbnail\\iPhone15ProMax.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Server.props",
+      "PackagePath": "build\\Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Server.props",
+      "PackagePath": "buildMultiTargeting\\Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Server.props",
+      "PackagePath": "buildTransitive\\Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

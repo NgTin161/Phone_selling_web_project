@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SendEmail</id>
+    <version>1.0.0</version>
+    <authors>SendEmail</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="7a0e294fd4af78dd652e8cc7edb69cd4f3776e67" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="NETCore.MailKit" version="2.1.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\DOANHK6\DoAnHK6\Api_Server\SendEmail\bin\Debug\net6.0\SendEmail.dll" target="lib\net6.0\SendEmail.dll" />
+  </files>
+</package>

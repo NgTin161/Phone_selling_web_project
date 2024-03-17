@@ -1,0 +1,25 @@
+.dashboard-container{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+.left-panel, .right-panel {
+    width: 48%;
+    padding: 10px;
+    margin: 10px;
+}
+
+@media (max-width: 768px) {
+    .dashboard-container {
+        flex-direction: column;
+    }
+    .left-panel,.right-panel {
+        width: 100%;
+    }
+    .order-status-table {
+        width: 100%;
+    }
+}

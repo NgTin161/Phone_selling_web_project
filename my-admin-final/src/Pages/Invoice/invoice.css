@@ -1,0 +1,17 @@
+ul.invoice-container {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+ul.invoice-container li {
+    flex: 1 1 300px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+    margin: 5px;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
